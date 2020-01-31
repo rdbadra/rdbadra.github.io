@@ -1,4 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Bienvenidos a este blog. Mi nombre es Roberto Díaz. Soy un apasionado del mundo de la Inteligencia Artificial, un campo que abarca tanto que es imposible conocer todas las técnicas y algoritmos que se van publicando diariamente. En este blog publicaré todos los algoritmos que me vayan pareciendo interesante.
 
 ![Image of fast.ai logo](images/logo.png)
 
